@@ -1,8 +1,6 @@
 # wats1030-moving-files
 An assignment designed to challenge students to move files and clone repositories on the command line. The WATS1030 course uses [Digital Ocean](https://digitalocean.com) as the chosen hosting service. The challenge and instructions here are written according to how Digital Ocean works, but you can accomplish the same goals using any server running Unix or Linux. Be aware that different distributions of Linux are not identical, so some details (such as the package management tool) may vary accordingly.
 
-THIS REPO IS NOT YET READY FOR YOU TO DO WORK. THIS MESSAGE WILL BE REMOVED WHEN THE REPO IS READY.
-
 ## Base Requirements
 The base requirements for this assignment are to complete the following list of tasks and then commit your repository back up to the server. Your completion of these tasks provides evidence of your success. You will create, delete, move and rename files and folders in several ways.
 
