@@ -15,7 +15,7 @@ To begin working on this project, you will need to set up a new server:
 
 Once you have created your Droplet and successfully connected to it, you will need to install and configure Git:
 
-1. Install Git on your Droplet using `apt-get`, which is a package management tool used by CentOS.
+1. Install Git on your Droplet using `apt-get`, which is a package management tool used by Ubuntu.
   * Run the command `sudo apt-get install git` to begin the install process
   * Pay attention: `apt-get` will ask you to confirm that you want to install the application once it determines how much disk space it will take up. You will have to press `Y` to continue the installation.
   * You will know the installation is finished when you see: `'git help -a' and 'git help -g' lists available subcommands and some concept guides. See 'git help <command>' or 'git help <concept>' to read about a specific subcommand or concept.`
