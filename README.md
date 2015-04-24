@@ -41,7 +41,7 @@ Now that you have this repository on your Droplet, we will perform some file man
 3. Use the `mkdir` command to make the directory `tmp/` inside of `challenge_files`.
 4. Use the `cp` command to copy `index.html` to `tmp/keepme.html`.
 5. Use the `rm` command to remove (or "delete") the file `deleteme.html`.
-6. Use the `rmdir` command to remove (or "delete") the directory `delete_this_directory/`.
+6. Use the `rmdir` command to remove (or "delete") the directory `delete_this_directory/`. Does it work? Figure out how to remove `delete_this_directory/` and all the contents within.
 7. Use the `scp` (SSH secure copy) command to upload an image to the `img/` directory. (`scp <your_filename.jpg> root@<YOUR DROPLET IP ADDRESS>:~/wats1030-moving-files/challenge_files/img/`)
   * Make your life a little easier by uploading a file that isn't too huge in filesize.
   * You may upload any file you choose; please keep it appropriate for the classroom/workplace.
